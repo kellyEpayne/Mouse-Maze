@@ -18,7 +18,6 @@ Python 3
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3 Schools](https://www.w3schools.com/python/default.asp) - always great for refreshing concepts
 * [Python Arcade 2.6.15](https://api.arcade.academy/en/latest/) - The documentation and tutorials for Py Arcade
 
